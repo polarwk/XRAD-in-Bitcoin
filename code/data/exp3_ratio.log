@@ -1,0 +1,69 @@
+nohup: ignoring input
+2022-10-15 13:40:17.175 | INFO     | __main__:unknown_detection:404 - loading dataset......
+2022-10-15 13:43:54.008 | INFO     | __main__:unknown_detection:410 - loading dataset finished
+2022-10-15 13:44:12.268 | INFO     | __main__:unknown_detection:420 - start training....
+2022-10-15 13:44:12.276 | INFO     | __main__:unknown_detection:421 - 4765.0
+2022-10-15 14:06:41.648 | INFO     | __main__:unknown_detection:430 - start inference....
+2022-10-15 14:07:37.778 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:07:37.790 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:07:37.790 | INFO     | __main__:bitcoin_heist_test:502 - 11
+2022-10-15 14:07:37.794 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:07:37.799 | INFO     | __main__:bitcoin_heist_test:504 - 1989
+2022-10-15 14:07:37.803 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9977741804937272
+2022-10-15 14:07:37.808 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9962749746020996
+2022-10-15 14:07:37.812 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:07:37.816 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9981340118744699
+2022-10-15 14:08:31.172 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:08:31.197 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:08:31.197 | INFO     | __main__:bitcoin_heist_test:502 - 57
+2022-10-15 14:08:31.202 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:08:31.207 | INFO     | __main__:bitcoin_heist_test:504 - 9943
+2022-10-15 14:08:31.211 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9955957348168752
+2022-10-15 14:08:31.215 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9809936645548516
+2022-10-15 14:08:31.220 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:08:31.224 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9904056556135331
+2022-10-15 14:09:36.119 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:09:36.200 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:09:36.200 | INFO     | __main__:bitcoin_heist_test:502 - 330
+2022-10-15 14:09:36.204 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:09:36.209 | INFO     | __main__:bitcoin_heist_test:504 - 49670
+2022-10-15 14:09:36.213 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9937667636281213
+2022-10-15 14:09:36.217 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.8991442542787286
+2022-10-15 14:09:36.221 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:09:36.225 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9468941100740264
+2022-10-15 14:11:09.746 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:11:09.892 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:11:09.893 | INFO     | __main__:bitcoin_heist_test:502 - 646
+2022-10-15 14:11:09.897 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:11:09.902 | INFO     | __main__:bitcoin_heist_test:504 - 99354
+2022-10-15 14:11:09.908 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9937246216315984
+2022-10-15 14:11:09.913 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.8199554069119287
+2022-10-15 14:11:09.917 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:11:09.922 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9010719754977029
+2022-10-15 14:14:11.205 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:14:11.490 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:14:11.491 | INFO     | __main__:bitcoin_heist_test:502 - 1221
+2022-10-15 14:14:11.495 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:14:11.500 | INFO     | __main__:bitcoin_heist_test:504 - 198779
+2022-10-15 14:14:11.505 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9939835026756413
+2022-10-15 14:14:11.510 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.7067018976699495
+2022-10-15 14:14:11.514 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:14:11.518 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.8281491907107671
+2022-10-15 14:21:01.225 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:21:01.973 | INFO     | __main__:bitcoin_heist_test:501 - 2942
+2022-10-15 14:21:01.973 | INFO     | __main__:bitcoin_heist_test:502 - 2937
+2022-10-15 14:21:01.978 | INFO     | __main__:bitcoin_heist_test:503 - 0
+2022-10-15 14:21:01.982 | INFO     | __main__:bitcoin_heist_test:504 - 497063
+2022-10-15 14:21:01.986 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9941603604391759
+2022-10-15 14:21:01.991 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.5004252423881612
+2022-10-15 14:21:01.995 | INFO     | __main__:bitcoin_heist_test:508 - rec 1.0
+2022-10-15 14:21:01.999 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.6670445527717945
+2022-10-15 14:21:06.137 | INFO     | __main__:unknown_detection:404 - loading dataset......
+Traceback (most recent call last):
+  File "RansomwareAddressDetection_2022tdsc_177_rocksdb.py", line 561, in <module>
+    unknown_detection(one_rs)
+  File "RansomwareAddressDetection_2022tdsc_177_rocksdb.py", line 405, in unknown_detection
+    train_rs_features_list, train_rs_labeled_list, test_rs_feature, test_rs_label = load_unknown_data(rs)
+  File "RansomwareAddressDetection_2022tdsc_177_rocksdb.py", line 279, in load_unknown_data
+    ransomware_file = open(tag_path, "r")
+FileNotFoundError: [Errno 2] No such file or directory: '../nfs/wk/TDSC/addr_cascade_feature/ransom_new/tag/Miss_cascade_feature.csv'

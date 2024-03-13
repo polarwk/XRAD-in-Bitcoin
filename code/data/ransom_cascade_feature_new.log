@@ -1,0 +1,26 @@
+nohup: ignoring input
+2022-10-12 22:07:02.630 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           0
+2022-10-12 22:09:28.825 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           1000
+2022-10-12 22:11:45.124 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           2000
+2022-10-12 22:14:11.465 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           3000
+2022-10-12 22:17:44.905 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           4000
+2022-10-12 22:17:51.622 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           5000
+2022-10-12 22:17:59.118 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           6000
+2022-10-12 22:18:06.445 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           7000
+2022-10-12 22:18:12.242 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           8000
+2022-10-12 22:18:17.838 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           9000
+2022-10-12 22:18:23.470 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           10000
+2022-10-12 22:18:26.620 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           11000
+2022-10-12 22:18:29.710 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           12000
+2022-10-12 22:18:32.903 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           13000
+2022-10-12 22:18:35.987 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           14000
+2022-10-12 22:18:39.072 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           15000
+2022-10-12 22:18:42.117 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           16000
+2022-10-12 22:18:45.170 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           17000
+2022-10-12 22:18:48.234 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           18000
+2022-10-12 22:18:51.227 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           19000
+2022-10-12 22:18:54.309 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           20000
+2022-10-12 22:19:00.332 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           21000
+2022-10-12 22:19:10.408 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           22000
+2022-10-12 22:19:16.496 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           23000
+2022-10-12 22:19:22.180 | DEBUG    | __main__:calculate_cascade_feature_each:31 -             ///////           24000

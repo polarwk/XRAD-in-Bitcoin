@@ -1,0 +1,105 @@
+nohup: ignoring input
+2022-10-06 20:02:54.610 | INFO     | __main__:process_year_white_address:148 - 2013       :       0//1000000
+Process Process-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:54.915 | INFO     | __main__:process_year_white_address:148 - 2014       :       0//1000000
+Process Process-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:55.201 | INFO     | __main__:process_year_white_address:148 - 2015       :       0//1000000
+Process Process-3:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:55.470 | INFO     | __main__:process_year_white_address:148 - 2016       :       0//1000000
+Process Process-4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:55.716 | INFO     | __main__:process_year_white_address:148 - 2017       :       0//1000000
+Process Process-5:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:55.949 | INFO     | __main__:process_year_white_address:148 - 2018       :       0//1000000
+Process Process-6:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:56.175 | INFO     | __main__:process_year_white_address:148 - 2019       :       0//1000000
+Process Process-7:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'
+2022-10-06 20:02:56.404 | INFO     | __main__:process_year_white_address:148 - 2020       :       0//1000000
+Process Process-8:
+Traceback (most recent call last):
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 258, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.6/multiprocessing/process.py", line 93, in run
+    self._target(*self._args, **self._kwargs)
+  File "Find_Oppos_160.py", line 152, in process_year_white_address
+  File "Find_Oppos_160.py", line 44, in find_op_addrs
+    addr_related_txs = addr_txs_db.get(bytes(sample_addr, encoding='utf-8'))
+  File "rocksdb/_rocksdb.pyx", line 1796, in rocksdb._rocksdb.DB.get
+  File "rocksdb/_rocksdb.pyx", line 76, in rocksdb._rocksdb.check_status
+rocksdb.errors.Corruption: b'Corruption: Snappy not supported or corrupted Snappy compressed block contents'

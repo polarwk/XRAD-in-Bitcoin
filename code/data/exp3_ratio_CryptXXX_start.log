@@ -1,0 +1,237 @@
+nohup: ignoring input
+2022-10-15 14:25:44.888 | INFO     | __main__:unknown_detection:404 - loading dataset......
+2022-10-15 14:29:07.426 | INFO     | __main__:unknown_detection:410 - loading dataset finished
+2022-10-15 14:29:28.952 | INFO     | __main__:unknown_detection:420 - start training....
+2022-10-15 14:29:28.962 | INFO     | __main__:unknown_detection:421 - 24369.0
+2022-10-15 14:56:13.932 | INFO     | __main__:unknown_detection:430 - start inference....
+2022-10-15 14:57:15.569 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:57:15.581 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 14:57:15.581 | INFO     | __main__:bitcoin_heist_test:502 - 7
+2022-10-15 14:57:15.585 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 14:57:15.589 | INFO     | __main__:bitcoin_heist_test:504 - 1993
+2022-10-15 14:57:15.594 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9978621058257616
+2022-10-15 14:57:15.598 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9959954233409611
+2022-10-15 14:57:15.602 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 14:57:15.606 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9977077363896848
+2022-10-15 14:58:10.219 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:58:10.240 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 14:58:10.240 | INFO     | __main__:bitcoin_heist_test:502 - 76
+2022-10-15 14:58:10.246 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 14:58:10.250 | INFO     | __main__:bitcoin_heist_test:504 - 9924
+2022-10-15 14:58:10.255 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9934423437233861
+2022-10-15 14:58:10.260 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9581728123280132
+2022-10-15 14:58:10.269 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 14:58:10.288 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9783647091879741
+2022-10-15 14:59:22.430 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 14:59:22.512 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 14:59:22.512 | INFO     | __main__:bitcoin_heist_test:502 - 389
+2022-10-15 14:59:22.517 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 14:59:22.521 | INFO     | __main__:bitcoin_heist_test:504 - 49611
+2022-10-15 14:59:22.527 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9924626029144602
+2022-10-15 14:59:22.532 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.8173708920187793
+2022-10-15 14:59:22.536 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 14:59:22.540 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.8992768595041323
+2022-10-15 15:01:08.982 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:01:09.126 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 15:01:09.126 | INFO     | __main__:bitcoin_heist_test:502 - 788
+2022-10-15 15:01:09.130 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 15:01:09.135 | INFO     | __main__:bitcoin_heist_test:504 - 99212
+2022-10-15 15:01:09.140 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9922450905230878
+2022-10-15 15:01:09.144 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.6884143930407276
+2022-10-15 15:01:09.149 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 15:01:09.153 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.8152657457269961
+2022-10-15 15:04:22.823 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:04:23.111 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 15:04:23.112 | INFO     | __main__:bitcoin_heist_test:502 - 1600
+2022-10-15 15:04:23.116 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 15:04:23.119 | INFO     | __main__:bitcoin_heist_test:504 - 198400
+2022-10-15 15:04:23.123 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.99206412150172
+2022-10-15 15:04:23.127 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.5211014666267585
+2022-10-15 15:04:23.130 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 15:04:23.134 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.6850285264607515
+2022-10-15 15:11:56.951 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:11:57.672 | INFO     | __main__:bitcoin_heist_test:501 - 1741
+2022-10-15 15:11:57.672 | INFO     | __main__:bitcoin_heist_test:502 - 3979
+2022-10-15 15:11:57.678 | INFO     | __main__:bitcoin_heist_test:503 - 1
+2022-10-15 15:11:57.682 | INFO     | __main__:bitcoin_heist_test:504 - 496021
+2022-10-15 15:11:57.687 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9920676363549394
+2022-10-15 15:11:57.691 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.30437062937062936
+2022-10-15 15:11:57.695 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9994259471871412
+2022-10-15 15:11:57.699 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.4666309300455642
+2022-10-15 15:12:01.302 | INFO     | __main__:unknown_detection:404 - loading dataset......
+2022-10-15 15:15:25.934 | INFO     | __main__:unknown_detection:410 - loading dataset finished
+2022-10-15 15:15:46.708 | INFO     | __main__:unknown_detection:420 - start training....
+2022-10-15 15:15:46.717 | INFO     | __main__:unknown_detection:421 - 24369.0
+2022-10-15 15:42:18.881 | INFO     | __main__:unknown_detection:430 - start inference....
+2022-10-15 15:43:19.205 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:43:19.223 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:43:19.223 | INFO     | __main__:bitcoin_heist_test:502 - 9
+2022-10-15 15:43:19.231 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:43:19.236 | INFO     | __main__:bitcoin_heist_test:504 - 1991
+2022-10-15 15:43:19.241 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9963712337805146
+2022-10-15 15:43:19.245 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9987286339878514
+2022-10-15 15:43:19.250 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:43:19.256 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9976716291540253
+2022-10-15 15:44:17.416 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:44:17.441 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:44:17.441 | INFO     | __main__:bitcoin_heist_test:502 - 67
+2022-10-15 15:44:17.445 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:44:17.449 | INFO     | __main__:bitcoin_heist_test:504 - 9933
+2022-10-15 15:44:17.453 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9946764946764947
+2022-10-15 15:44:17.457 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9906123020877119
+2022-10-15 15:44:17.461 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:44:17.465 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9936055090998525
+2022-10-15 15:45:31.354 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:45:31.435 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:45:31.435 | INFO     | __main__:bitcoin_heist_test:502 - 351
+2022-10-15 15:45:31.440 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:45:31.444 | INFO     | __main__:bitcoin_heist_test:504 - 49649
+2022-10-15 15:45:31.448 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9934318842610432
+2022-10-15 15:45:31.452 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9527017922112923
+2022-10-15 15:45:31.456 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:45:31.460 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9741646572511196
+2022-10-15 15:47:22.042 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:47:22.193 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:47:22.194 | INFO     | __main__:bitcoin_heist_test:502 - 711
+2022-10-15 15:47:22.198 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:47:22.203 | INFO     | __main__:bitcoin_heist_test:504 - 99289
+2022-10-15 15:47:22.207 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9931368704129083
+2022-10-15 15:47:22.211 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9086235702351882
+2022-10-15 15:47:22.215 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:47:22.219 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9505882352941176
+2022-10-15 15:50:42.452 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:50:42.745 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:50:42.745 | INFO     | __main__:bitcoin_heist_test:502 - 1403
+2022-10-15 15:50:42.754 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:50:42.758 | INFO     | __main__:bitcoin_heist_test:504 - 198597
+2022-10-15 15:50:42.764 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9931094092537688
+2022-10-15 15:50:42.771 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.8344152012274283
+2022-10-15 15:50:42.775 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:50:42.780 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9083317273720048
+2022-10-15 15:58:22.162 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 15:58:22.870 | INFO     | __main__:bitcoin_heist_test:501 - 7070
+2022-10-15 15:58:22.870 | INFO     | __main__:bitcoin_heist_test:502 - 3408
+2022-10-15 15:58:22.874 | INFO     | __main__:bitcoin_heist_test:503 - 24
+2022-10-15 15:58:22.878 | INFO     | __main__:bitcoin_heist_test:504 - 496592
+2022-10-15 15:58:22.882 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9932320240428796
+2022-10-15 15:58:22.886 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.6747470891391487
+2022-10-15 15:58:22.890 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9966168593177333
+2022-10-15 15:58:22.894 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.8046892783974505
+2022-10-15 15:58:26.548 | INFO     | __main__:unknown_detection:404 - loading dataset......
+2022-10-15 16:01:51.447 | INFO     | __main__:unknown_detection:410 - loading dataset finished
+2022-10-15 16:02:12.724 | INFO     | __main__:unknown_detection:420 - start training....
+2022-10-15 16:02:12.734 | INFO     | __main__:unknown_detection:421 - 24369.0
+2022-10-15 16:28:39.961 | INFO     | __main__:unknown_detection:430 - start inference....
+2022-10-15 16:29:42.957 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:29:42.977 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:29:42.978 | INFO     | __main__:bitcoin_heist_test:502 - 18
+2022-10-15 16:29:42.982 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:29:42.987 | INFO     | __main__:bitcoin_heist_test:504 - 1982
+2022-10-15 16:29:42.991 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9966296752979861
+2022-10-15 16:29:42.996 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9982283464566929
+2022-10-15 16:29:43.001 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:29:43.006 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9979827798277983
+2022-10-15 16:30:42.104 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:30:42.134 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:30:42.134 | INFO     | __main__:bitcoin_heist_test:502 - 65
+2022-10-15 16:30:42.138 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:30:42.142 | INFO     | __main__:bitcoin_heist_test:504 - 9935
+2022-10-15 16:30:42.146 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9956360029754525
+2022-10-15 16:30:42.150 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9936318212991084
+2022-10-15 16:30:42.154 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:30:42.158 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9956803455723542
+2022-10-15 16:31:56.823 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:31:56.908 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:31:56.908 | INFO     | __main__:bitcoin_heist_test:502 - 345
+2022-10-15 16:31:56.912 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:31:56.916 | INFO     | __main__:bitcoin_heist_test:504 - 49655
+2022-10-15 16:31:56.919 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9938834870772043
+2022-10-15 16:31:56.923 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9671021264422619
+2022-10-15 16:31:56.927 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:31:56.930 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9821809025760216
+2022-10-15 16:33:51.924 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:33:52.079 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:33:52.080 | INFO     | __main__:bitcoin_heist_test:502 - 684
+2022-10-15 16:33:52.084 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:33:52.088 | INFO     | __main__:bitcoin_heist_test:504 - 99316
+2022-10-15 16:33:52.093 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9935823537421141
+2022-10-15 16:33:52.097 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.9368187696286717
+2022-10-15 16:33:52.106 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:33:52.115 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9663188985755801
+2022-10-15 16:37:14.410 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:37:14.727 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:37:14.727 | INFO     | __main__:bitcoin_heist_test:502 - 1340
+2022-10-15 16:37:14.731 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:37:14.735 | INFO     | __main__:bitcoin_heist_test:504 - 198660
+2022-10-15 16:37:14.739 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9935146194656579
+2022-10-15 16:37:14.743 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.883295593102247
+2022-10-15 16:37:14.747 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:37:14.752 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.9370351549868342
+2022-10-15 16:44:52.892 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 16:44:53.659 | INFO     | __main__:bitcoin_heist_test:501 - 10142
+2022-10-15 16:44:53.659 | INFO     | __main__:bitcoin_heist_test:502 - 3397
+2022-10-15 16:44:53.663 | INFO     | __main__:bitcoin_heist_test:503 - 23
+2022-10-15 16:44:53.668 | INFO     | __main__:bitcoin_heist_test:504 - 496603
+2022-10-15 16:44:53.672 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9932962864955456
+2022-10-15 16:44:53.676 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.749095206440653
+2022-10-15 16:44:53.681 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.9977373339891785
+2022-10-15 16:44:53.685 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.8557205534930813
+2022-10-15 16:44:57.465 | INFO     | __main__:unknown_detection:404 - loading dataset......
+2022-10-15 16:48:20.557 | INFO     | __main__:unknown_detection:410 - loading dataset finished
+2022-10-15 16:48:41.309 | INFO     | __main__:unknown_detection:420 - start training....
+2022-10-15 16:48:41.318 | INFO     | __main__:unknown_detection:421 - 24369.0
+2022-10-15 17:15:09.620 | INFO     | __main__:unknown_detection:430 - start inference....
+2022-10-15 17:16:05.241 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:16:05.249 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:16:05.254 | INFO     | __main__:bitcoin_heist_test:502 - 17
+2022-10-15 17:16:05.260 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:16:05.266 | INFO     | __main__:bitcoin_heist_test:504 - 1983
+2022-10-15 17:16:05.271 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9822397631968426
+2022-10-15 17:16:05.275 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.32
+2022-10-15 17:16:05.279 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:16:05.284 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.3076923076923077
+2022-10-15 17:16:59.666 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:16:59.684 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:16:59.684 | INFO     | __main__:bitcoin_heist_test:502 - 81
+2022-10-15 17:16:59.688 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:16:59.692 | INFO     | __main__:bitcoin_heist_test:504 - 9919
+2022-10-15 17:16:59.697 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9900269272963
+2022-10-15 17:16:59.700 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.0898876404494382
+2022-10-15 17:16:59.704 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:16:59.708 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.13793103448275862
+2022-10-15 17:18:09.202 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:18:09.272 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:18:09.272 | INFO     | __main__:bitcoin_heist_test:502 - 406
+2022-10-15 17:18:09.277 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:18:09.282 | INFO     | __main__:bitcoin_heist_test:504 - 49594
+2022-10-15 17:18:09.286 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9915045875227377
+2022-10-15 17:18:09.290 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.01932367149758454
+2022-10-15 17:18:09.294 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:18:09.298 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.036281179138321996
+2022-10-15 17:19:52.655 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:19:52.796 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:19:52.796 | INFO     | __main__:bitcoin_heist_test:502 - 771
+2022-10-15 17:19:52.800 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:19:52.805 | INFO     | __main__:bitcoin_heist_test:504 - 99229
+2022-10-15 17:19:52.809 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9921021324242455
+2022-10-15 17:19:52.812 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.010269576379974325
+2022-10-15 17:19:52.817 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:19:52.821 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.019851116625310174
+2022-10-15 17:23:04.328 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:23:04.614 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:23:04.615 | INFO     | __main__:bitcoin_heist_test:502 - 1606
+2022-10-15 17:23:04.619 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:23:04.623 | INFO     | __main__:bitcoin_heist_test:504 - 198394
+2022-10-15 17:23:04.627 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9918760967269419
+2022-10-15 17:23:04.631 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.004956629491945477
+2022-10-15 17:23:04.635 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:23:04.639 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.009750152346130409
+2022-10-15 17:30:38.012 | INFO     | __main__:unknown_detection:439 - start check............
+2022-10-15 17:30:38.728 | INFO     | __main__:bitcoin_heist_test:501 - 8
+2022-10-15 17:30:38.728 | INFO     | __main__:bitcoin_heist_test:502 - 4032
+2022-10-15 17:30:38.733 | INFO     | __main__:bitcoin_heist_test:503 - 19
+2022-10-15 17:30:38.740 | INFO     | __main__:bitcoin_heist_test:504 - 495968
+2022-10-15 17:30:38.744 | INFO     | __main__:bitcoin_heist_test:506 - ac 0.9918984374843759
+2022-10-15 17:30:38.749 | INFO     | __main__:bitcoin_heist_test:507 - pr 0.0019801980198019802
+2022-10-15 17:30:38.754 | INFO     | __main__:bitcoin_heist_test:508 - rec 0.2962962962962963
+2022-10-15 17:30:38.759 | INFO     | __main__:bitcoin_heist_test:509 - f1 0.003934103761986722

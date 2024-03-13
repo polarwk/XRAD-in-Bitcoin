@@ -1,0 +1,18 @@
+nohup: ignoring input
+2022-10-07 21:58:18.530 | INFO     | __main__:<module>:177 - mixing_transaction_set finish
+2022-10-07 21:58:24.781 | INFO     | __main__:<module>:180 - already_address_set already
+2022-10-07 21:58:24.783 | INFO     | __main__:<module>:190 - count:0
+2022-10-07 21:59:24.956 | INFO     | __main__:<module>:190 - count:10000
+2022-10-07 22:00:20.555 | INFO     | __main__:<module>:190 - count:20000
+2022-10-07 22:01:13.962 | INFO     | __main__:<module>:190 - count:30000
+2022-10-07 22:01:54.764 | INFO     | __main__:<module>:190 - count:40000
+2022-10-07 22:03:05.725 | INFO     | __main__:<module>:190 - count:50000
+2022-10-07 22:04:18.560 | INFO     | __main__:<module>:190 - count:60000
+2022-10-07 22:05:30.288 | INFO     | __main__:<module>:190 - count:70000
+2022-10-07 22:06:55.161 | INFO     | __main__:<module>:190 - count:80000
+2022-10-07 22:07:50.686 | INFO     | __main__:<module>:190 - count:90000
+2022-10-07 22:09:16.559 | INFO     | __main__:<module>:190 - count:100000
+2022-10-07 22:10:32.137 | INFO     | __main__:<module>:190 - count:110000
+2022-10-07 22:11:22.667 | INFO     | __main__:<module>:190 - count:120000
+2022-10-07 22:12:38.115 | INFO     | __main__:<module>:190 - count:130000
+2022-10-07 22:13:25.387 | INFO     | __main__:<module>:190 - count:140000
